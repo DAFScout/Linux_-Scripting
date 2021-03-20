@@ -1,0 +1,171 @@
+_________________________________________________
+Command uptime
+ 
+ 19:24:56 up  4:13,  1 user,  load average: 0,20, 0,15, 0,14
+_________________________________________________
+Command which display current users 
+ 
+root
+daemon
+bin
+sys
+sync
+games
+man
+lp
+mail
+news
+uucp
+proxy
+www-data
+backup
+list
+irc
+gnats
+nobody
+systemd-network
+systemd-resolve
+syslog
+messagebus
+_apt
+uuidd
+avahi-autoipd
+usbmux
+dnsmasq
+rtkit
+speech-dispatcher
+whoopsie
+kernoops
+saned
+pulse
+avahi
+colord
+hplip
+geoclue
+gnome-initial-setup
+gdm
+e1f0
+_________________________________________________
+Command which display recent users
+ 
+e1f0     :0           :0               Sat Mar 20 15:15   still logged in
+reboot   system boot  4.15.0-139-gener Sat Mar 20 15:11   still running
+e1f0     :0           :0               Sat Mar 20 11:45 - 14:02  (02:17)
+reboot   system boot  4.15.0-137-gener Sat Mar 20 11:44 - 14:02  (02:18)
+e1f0     :0           :0               Fri Mar 19 14:36 - 15:05  (00:28)
+reboot   system boot  4.15.0-137-gener Fri Mar 19 14:34 - 15:05  (00:30)
+e1f0     :0           :0               Fri Mar 19 11:00 - 12:53  (01:53)
+reboot   system boot  4.15.0-137-gener Fri Mar 19 10:59 - 12:53  (01:54)
+e1f0     :0           :0               Fri Mar 19 01:04 - down   (00:41)
+reboot   system boot  4.15.0-137-gener Fri Mar 19 01:03 - 01:46  (00:42)
+e1f0     :0           :0               Thu Mar 18 23:30 - 01:03  (01:32)
+reboot   system boot  4.15.0-137-gener Thu Mar 18 23:29 - 01:03  (01:33)
+e1f0     :0           :0               Thu Mar 18 18:47 - 21:20  (02:33)
+reboot   system boot  4.15.0-137-gener Thu Mar 18 18:46 - 21:20  (02:34)
+e1f0     :0           :0               Thu Mar 18 12:29 - 12:31  (00:01)
+reboot   system boot  4.15.0-137-gener Thu Mar 18 12:28 - 12:31  (00:03)
+e1f0     :0           :0               Wed Mar 17 22:36 - down   (00:19)
+reboot   system boot  4.15.0-137-gener Wed Mar 17 22:34 - 22:55  (00:20)
+e1f0     :0           :0               Tue Mar 16 23:57 - down   (00:10)
+reboot   system boot  4.15.0-137-gener Tue Mar 16 23:56 - 00:07  (00:11)
+e1f0     :0           :0               Tue Mar 16 21:02 - down   (02:36)
+reboot   system boot  4.15.0-137-gener Tue Mar 16 21:01 - 23:38  (02:37)
+e1f0     :0           :0               Tue Mar 16 18:44 - down   (00:20)
+reboot   system boot  4.15.0-137-gener Tue Mar 16 18:33 - 19:04  (00:30)
+e1f0     :0           :0               Tue Mar 16 18:24 - crash  (00:09)
+reboot   system boot  4.15.0-137-gener Tue Mar 16 18:23 - 19:04  (00:41)
+e1f0     :0           :0               Tue Mar 16 11:38 - down   (01:08)
+reboot   system boot  4.15.0-136-gener Tue Mar 16 11:37 - 12:46  (01:09)
+e1f0     :0           :0               Mon Mar 15 19:11 - crash  (16:26)
+reboot   system boot  4.15.0-136-gener Mon Mar 15 19:10 - 12:46  (17:36)
+e1f0     :0           :0               Sun Mar 14 21:12 - crash  (21:57)
+reboot   system boot  4.15.0-136-gener Sun Mar 14 21:10 - 12:46 (1+15:36)
+e1f0     :0           :0               Sun Mar 14 18:51 - 19:09  (00:17)
+reboot   system boot  4.15.0-136-gener Sun Mar 14 18:50 - 19:09  (00:18)
+e1f0     :0           :0               Sun Mar 14 15:15 - down   (02:37)
+reboot   system boot  4.15.0-136-gener Sun Mar 14 15:14 - 17:53  (02:38)
+e1f0     :0           :0               Sun Mar 14 13:21 - crash  (01:53)
+reboot   system boot  4.15.0-136-gener Sun Mar 14 13:20 - 17:53  (04:32)
+e1f0     :0           :0               Sun Mar 14 12:52 - 13:20  (00:27)
+reboot   system boot  4.15.0-136-gener Sun Mar 14 12:51 - 13:20  (00:28)
+e1f0     :0           :0               Fri Mar 12 21:23 - down   (03:33)
+reboot   system boot  4.15.0-136-gener Fri Mar 12 21:21 - 00:56  (03:34)
+e1f0     :0           :0               Thu Mar 11 23:17 - down   (00:51)
+reboot   system boot  4.15.0-136-gener Thu Mar 11 23:16 - 00:09  (00:52)
+e1f0     :0           :0               Thu Mar 11 20:38 - 23:16  (02:38)
+reboot   system boot  4.15.0-136-gener Thu Mar 11 20:37 - 23:16  (02:39)
+e1f0     :0           :0               Thu Mar 11 13:21 - 14:03  (00:41)
+reboot   system boot  4.15.0-136-gener Thu Mar 11 13:20 - 14:03  (00:42)
+e1f0     :0           :0               Wed Mar 10 16:50 - 16:58  (00:07)
+reboot   system boot  4.15.0-136-gener Wed Mar 10 16:49 - 16:58  (00:08)
+e1f0     :0           :0               Wed Mar 10 16:27 - crash  (00:21)
+reboot   system boot  4.15.0-136-gener Wed Mar 10 16:26 - 16:58  (00:31)
+e1f0     :0           :0               Wed Mar 10 11:22 - 14:39  (03:17)
+reboot   system boot  4.15.0-20-generi Wed Mar 10 11:17 - 14:39  (03:22)
+e1f0     :0           :0               Wed Mar 10 00:22 - 00:26  (00:04)
+reboot   system boot  4.15.0-20-generi Wed Mar 10 00:21 - 00:26  (00:05)
+e1f0     :0           :0               Wed Mar 10 00:20 - 00:20  (00:00)
+reboot   system boot  4.15.0-20-generi Wed Mar 10 00:19 - 00:20  (00:01)
+e1f0     :0           :0               Wed Mar 10 00:16 - 00:19  (00:02)
+reboot   system boot  4.15.0-20-generi Wed Mar 10 00:15 - 00:19  (00:03)
+e1f0     :0           :0               Tue Mar  9 23:48 - 23:54  (00:05)
+reboot   system boot  4.15.0-20-generi Tue Mar  9 23:45 - 23:54  (00:08)
+e1f0     :0           :0               Tue Mar  9 22:43 - 23:44  (01:00)
+reboot   system boot  4.15.0-20-generi Tue Mar  9 22:43 - 23:44  (01:01)
+
+wtmp begins Tue Mar  9 22:43:02 2021
+_________________________________________________
+Command which display TOP 10 memory usage program
+ 
+  PID  PPID CMD                         %MEM %CPU
+ 1799  1664 /usr/bin/gnome-shell         8.1  5.1
+ 3077     1 /usr/lib/firefox/firefox -n  6.6  0.1
+ 3189  3077 /usr/lib/firefox/firefox -c  4.3  0.2
+ 1368  1334 /usr/bin/gnome-shell         3.8  0.0
+ 1653  1651 /usr/lib/xorg/Xorg vt2 -dis  3.0  1.3
+ 2032  1664 /usr/bin/gnome-software --g  2.9  0.0
+ 3150  3077 /usr/lib/firefox/firefox -c  2.7  0.0
+ 3233  3077 /usr/lib/firefox/firefox -c  1.9  0.0
+ 3293  3077 /usr/lib/firefox/firefox -c  1.4  0.0
+ 2023  1664 nautilus-desktop             1.2  0.1
+_________________________________________________
+Command which display TOP 10 cpu usage program
+ 
+  PID  PPID CMD                         %MEM %CPU
+ 1799  1664 /usr/bin/gnome-shell         8.1  5.1
+ 5531  1633 /usr/lib/gnome-terminal/gno  0.6  2.5
+ 1653  1651 /usr/lib/xorg/Xorg vt2 -dis  3.0  1.3
+ 4907  1633 /usr/bin/nautilus --gapplic  1.1  0.6
+ 3189  3077 /usr/lib/firefox/firefox -c  4.3  0.2
+ 1839  1799 ibus-daemon --xim --panel d  0.1  0.1
+ 2023  1664 nautilus-desktop             1.2  0.1
+ 3077     1 /usr/lib/firefox/firefox -n  6.6  0.1
+ 5540  5531 bash                         0.0  0.1
+    1     0 /sbin/init splash            0.1  0.0
+_________________________________________________
+Command which display TCP/UPD
+ 
+Netid  State    Recv-Q   Send-Q      Local Address:Port      Peer Address:Port  
+udp    UNCONN   0        0                 0.0.0.0:32792          0.0.0.0:*     
+udp    UNCONN   0        0           127.0.0.53%lo:53             0.0.0.0:*     
+udp    UNCONN   0        0                 0.0.0.0:68             0.0.0.0:*     
+udp    UNCONN   0        0                 0.0.0.0:631            0.0.0.0:*     
+udp    UNCONN   0        0                 0.0.0.0:5353           0.0.0.0:*     
+udp    UNCONN   0        0                    [::]:5353              [::]:*     
+udp    UNCONN   0        0                    [::]:44470             [::]:*     
+tcp    LISTEN   0        128         127.0.0.53%lo:53             0.0.0.0:*     
+tcp    LISTEN   0        5               127.0.0.1:631            0.0.0.0:*     
+tcp    LISTEN   0        5                   [::1]:631               [::]:*     
+_________________________________________________
+Command which display virtual memory usage
+ 
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2732416  73500 1013300    0    0    14     4  146  288  1  0 98  0  0
+_________________________________________________
+Command which display usage of disk space3
+ 
+              total        used        free      shared  buff/cache   available
+Mem:        5499080     1679864     2732416       97136     1086800     3487600
+Swap:       2097148           0     2097148
+_________________________________________________
